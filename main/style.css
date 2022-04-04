@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Balsamiq Sans', cursive;
+}
+.logo{
+    color: #fff;
+}
+.navbar-custom{
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    background: rgba(7,7,7,0.5);
+}
+
+/*=========End of nav===========*/
+.hero{
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: right;
+    color: #000;
+    background-image: url(./Images/hero_image.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+}
+
+/*.hero-heading{
+    font-size: 3.25rem;
+    font-weight: bold;
+    line-height: 3.25rem;
+    margin-bottom: 2rem;
+    color: ;
+}*/
+
+.page-section h2.section-heading {
+    font-size: 2.5rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.page-section h3.section-subheading {
+    font-size: 1rem;
+    font-weight: light;
+    font-style: italic;
+    margin-bottom: 4rem;
+}
